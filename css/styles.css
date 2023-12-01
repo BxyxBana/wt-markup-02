@@ -150,8 +150,7 @@ button {
 /*----Team----*/
 .team {
   text-align: center;
-  padding: 30px 59px 30px 60px;
-  
+  padding: 30px 59px 30px 60px; 
   background: var(--light-background);
 }
 .team .title {
